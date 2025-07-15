@@ -1,0 +1,23 @@
+
+> xvest@0.1.0 dev
+> next dev --turbopack -p 52429 --hostname 0.0.0.0
+
+   ▲ Next.js 15.4.1 (Turbopack)
+   - Local:        http://localhost:52429
+   - Network:      http://0.0.0.0:52429
+
+ ✓ Starting...
+ ✓ Ready in 597ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1646ms
+ GET / 200 in 1930ms
+ GET / 200 in 62ms
+ GET / 200 in 81ms
+ GET / 200 in 92ms
+ GET / 200 in 134ms
+ GET / 200 in 74ms
+ GET / 200 in 73ms
+ GET / 200 in 58ms
+ GET / 200 in 72ms
+ GET / 200 in 73ms
+ GET / 200 in 51ms
